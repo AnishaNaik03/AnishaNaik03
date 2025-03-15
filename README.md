@@ -24,7 +24,7 @@ Seeking an **entry-level Software Developer position** where I can apply my skil
 
 ## 📫 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-AnishaNaik03-181717?style=for-the-badge&logo=github)](https://github.com/AnishaNaik03)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnishaNaik-0077B5?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnishaNaik-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anishanaik03)  
 
 ---  
 
