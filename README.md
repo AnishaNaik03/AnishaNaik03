@@ -10,7 +10,7 @@ I’m currently pursuing a **Bachelor’s in Computer Engineering** at **Goa Col
 
 ## 🔥 Skills & Technologies  
 ### 💻 **Programming**  
-- **Languages**: C, C++, Python, R, Java  
+- **Languages**: C, C++, Python, R, Java ,Golang
 - **Web Development**: Node.js, React.js, HTML, CSS, JavaScript, PHP  
 - **Databases**: MySQL, PostgreSQL, MongoDB  
 
